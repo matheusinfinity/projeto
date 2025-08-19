@@ -15,7 +15,7 @@
   // workbench
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "Monokai Pro Monochrome Icons",
-  "workbench.colorTheme": "Abyss",
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
 
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
